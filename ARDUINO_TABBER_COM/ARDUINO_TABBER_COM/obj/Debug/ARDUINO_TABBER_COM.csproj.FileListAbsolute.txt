@@ -1,0 +1,10 @@
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\bin\Debug\ARDUINO_TABBER_COM.exe.config
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\bin\Debug\ARDUINO_TABBER_COM.exe
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\bin\Debug\ARDUINO_TABBER_COM.pdb
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.Form1.resources
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.Properties.Resources.resources
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.csproj.GenerateResource.cache
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.exe
+C:\Users\Mi\source\repos\ARDUINO_TABBER_COM\ARDUINO_TABBER_COM\obj\Debug\ARDUINO_TABBER_COM.pdb
